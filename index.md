@@ -8,5 +8,6 @@ Lista de Aplicativos com conteúdo 3D animados para serem usados em sala de aula
 - Ensino Fundamental (Biologia - Corpo Humano)
   - [Ing. Victor Michel Gonzales Galvan](https://play.google.com/store/apps/developer?id=Ing.+Victor+Michel+Gonzalez+Galvan)
 - Ensino Fundamental (Física)
+  - [Física Interativa](https://play.google.com/store/apps/details?id=com.fisicainterativa.app)
   - [Tony Portela](https://play.google.com/store/apps/developer?id=Tony+Portela)
 
