@@ -1,8 +1,14 @@
+# TechClass
+Utilização da Tecnologia em Sala de Aula
 
-# Aplicativos Impressionantes
+## Youtube Escolar
+Lista de Canais no Youtube que utilizam as técnicas ensinadas no TechClass.
+ - [Escola Profª Alexandrina dos Santos Pita](https://www.youtube.com/channel/UCZBFQDcXxFLqyZ4gftt4DUQ)
+
+## Aplicativos Impressionantes
 Lista de Aplicativos com conteúdo 3D animados para serem usados em sala de aula
 
-## Para Android 
+### Para Android 
 - Ensino Fundamental (Diversas disciplinas e séries)
   - [EvoBooks](https://play.google.com/store/apps/dev?id=6901766349963548759)
 - Ensino Fundamental (Biologia - Corpo Humano)
