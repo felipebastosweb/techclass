@@ -1,5 +1,9 @@
-# TechClass
+# TechClass 2020
 Utilização da Tecnologia em Sala de Aula
+
+## Sumário:
+ - [Conteúdos](docs/conteudos.md)
+
 
 ## Youtube Escolar
 Lista de Canais no Youtube que utilizam as técnicas ensinadas no TechClass.
